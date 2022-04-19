@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chileoro</h1>
+<h1 align="center">Hola 👋, Me llamo chileoro</h1>
 <h3 align="center">Programador chileno aprendiendo cada vez mas cosas.</h3>
 
 <h3 align="left">Connect with me:</h3>
