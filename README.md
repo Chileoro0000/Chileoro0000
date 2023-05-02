@@ -1,5 +1,5 @@
 <h1 align="center">Hola mi nombre es Gabriel</h1>
-<h3 align="center">Soy estudiante de programacion.</h3>
+<h3 align="center">Soy estudiante de ing en computacion e informatica.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
